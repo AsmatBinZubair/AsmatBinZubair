@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Asmatullah Zubair, a Software Developer 🚀 from Pakistan.
-.com
+
+- 🔭 I’m currently working on JAVA.
+- 🌱 I’m currently learning Mern.
+- 📫 You can reach me at any platform using username: AsmateSoomro
 
 [2.1]: http://i.imgur.com/P3YfQoD.png 
 <!--
