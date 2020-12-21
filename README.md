@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 [![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/in/AsmateSoomro)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-brightgreen?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/AsmateSoomro)
 
-- ⚡️ Available on all platforms with username: AsmateSoomro;
+- ⚡️ Available on all platforms with username: AsmateSoomro
 
 &nbsp;
 
@@ -24,8 +24,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working as Software Engineer;
-- 🌱 I'm in love with Java; 
-- 👯 I’m looking forward to work with different organizations 🤝;
-- 🤔 I like to help others;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working as Software Engineer.
+- 🌱 I'm in love with Java.
+- 👯 I’m looking forward to work with different organizations. 🤝
+- 🤔 I like to help others.
+- 💬 Ask me about anything, I am happy to help.
