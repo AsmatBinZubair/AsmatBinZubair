@@ -1,21 +1,12 @@
-### Hi there 👋 I'm Asmatullah Zubair, a Software Developer 🚀 from Pakistan.
+<!-- Your title -->
+## Hi, I'm Asmatullah Zubair, a Software Developer 🚀 from Pakistan.
 
-- 🔭 I’m currently working on JAVA.
-- 🌱 I’m currently learning Mern.
-- 📫 You can reach me at any platform using username: AsmateSoomro
-
-[2.1]: http://i.imgur.com/P3YfQoD.png 
-<!--
-**AsmateSoomro/AsmateSoomro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AsmateSoomro)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AsmateSoomro)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/AsmateSoomro)
