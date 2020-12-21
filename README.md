@@ -14,9 +14,7 @@ You can use the website to generate badges: https://shields.io/
 [![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/in/AsmateSoomro)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-brightgreen?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/AsmateSoomro)
 
-
-@AsmateSoomro
-
+- ⚡️ Available on all platforms with username: AsmateSoomro;
 
 &nbsp;
 
@@ -31,5 +29,3 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking forward to work with different organizations 🤝;
 - 🤔 I like to help others;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Available on all platforms with username: AsmateSoomro;
-- 📫 How to reach me: AsmateSoomro@gmail.com;
