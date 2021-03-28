@@ -25,6 +25,9 @@ You can use the website to generate badges: https://shields.io/
 
 - ⚡️ Available on commercials platforms with username: AsmateSoomro
 
+- ⚡️ Checkout my personal catalog on : https://asmatullahzubair.wixsite.com/home
+
+
 &nbsp;
 
 <!-- Talking about you -->
