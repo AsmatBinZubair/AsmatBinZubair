@@ -4,18 +4,26 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:AsmatullahZubair@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://www.github.com/AsmatullahZubair)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AsmatullahZubair)
+
+- ⚡️ Available on business platforms with username: AsmatullahZubair
+
 [![facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ZubairAsmatullah)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ZubairAsmatullah)
-[![Snapchat](https://img.shields.io/badge/-SnapChat-yellow?style=flat&labelColor=yellow&logo=snapchat&logoColor=white)](https://www.snapchat.com/AsmateSoomro)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/ZubairAsmatulla)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ZubairAsmatullah@gmail.com)
+
+- ⚡️ Available on Social platforms with username: ZubairAsmatullah
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/DearAsmat)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/DearAsmat)
+
+- ⚡️ Available on News & Entertainment platforms with username: DearAsmat
+
 [![Microsoft](https://img.shields.io/badge/-Microsoft-blue?style=flat&logo=microsoft&logoColor=white)](mailto:AsmateSoomro@outlook.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://www.github.com/ZubairAsmatullah)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ZubairAsmatullah)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/in/ZubairAsmatullah)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-brightgreen?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/AsmateSoomro)
 
-- ⚡️ Available on all platforms with username: ZubairAsmatullah
+- ⚡️ Available on commercials platforms with username: AsmateSoomro
 
 &nbsp;
 
