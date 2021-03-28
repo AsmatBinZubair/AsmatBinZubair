@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 [![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/in/ZubairAsmatullah)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-brightgreen?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/AsmateSoomro)
 
-- ⚡️ Available on all platforms with username: AsmateSoomro
+- ⚡️ Available on all platforms with username: ZubairAsmatullah
 
 &nbsp;
 
